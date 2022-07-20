@@ -1,1 +1,3 @@
-https://udayaramashetty.github.io/resume.github.io/
+Deployment File
+
+https://udayaramashetty.github.io/parallax/
